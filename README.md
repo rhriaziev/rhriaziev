@@ -1,39 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=rhriaziev&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=rhriaziev&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=65&desc=software%20developer&descSize=16&descColor=8b949e&descAlignY=82" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1500&color=8b949e&center=true&vCenter=true&width=420&lines=Python+%7C+JavaScript+%7C+C%2B%2B;Building+tools+%26+bots;Always+learning)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=8b949e&center=true&vCenter=true&width=400&lines=Python+%7C+JavaScript+%7C+C%2B%2B;Building+tools+in+silence.;The+code+speaks+for+itself.)](https://git.io/typing-svg)
+<div align="center">
+
+```
+ about me
+─────────────────────────────────────
+  lang    →  Python · JS · C++
+  focus   →  bots, automation, tools
+  status  →  learning & building
+─────────────────────────────────────
+```
+
+</div>
 
 <br/>
 
----
+<div align="center">
 
-### Stack
+<img src="https://skillicons.dev/icons?i=python,js,cpp,git,vscode,telegram&theme=dark&perline=6" />
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp,git,vscode&theme=dark" />
-
-<br/><br/>
-
----
-
-### Stats
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rhriaziev&show_icons=true&hide_border=true&bg_color=161b22&title_color=ffffff&text_color=8b949e&icon_color=8b949e" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhriaziev&layout=compact&hide_border=true&bg_color=161b22&title_color=ffffff&text_color=8b949e" height="155"/>
+<div align="center">
 
-<br/><br/>
+<a href="https://github.com/rhriaziev">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rhriaziev&show_icons=true&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhriaziev&layout=compact&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&langs_count=5"/>
+</a>
 
----
+</div>
 
-<sub>© rhriaziev</sub>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
