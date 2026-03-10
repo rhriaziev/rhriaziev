@@ -78,9 +78,11 @@ currently: learning & building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rhriaziev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=8b949e&icon_color=4f8ef7&ring_color=4f8ef7&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=rhriaziev&theme=dark&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=8b949e&dates=4a5568&currStreakNum=ffffff&sideNums=ffffff" width="65%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhriaziev&layout=compact&hide_border=true&bg_color=0d1117&title_color=4f8ef7&text_color=8b949e&langs_count=6" height="170"/>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rhriaziev&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" width="85%"/>
 
 </div>
 
@@ -102,7 +104,7 @@ currently: learning & building
 
 <div align="center">
 
-[![MusicSearchBot](https://github-readme-stats.vercel.app/api/pin/?username=rhriaziev&repo=MusicSearchBot&bg_color=0d1117&title_color=4f8ef7&text_color=8b949e&icon_color=4f8ef7&hide_border=true)](https://github.com/rhriaziev/MusicSearchBot)
+**[MusicSearchBot](https://github.com/rhriaziev/MusicSearchBot)** — Telegram bot for searching and downloading music via Spotify & SoundCloud · `Python`
 
 </div>
 
