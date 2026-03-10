@@ -51,7 +51,7 @@ status: online ···················
 
 🌙  timezone   UTC+3
 ⚡  status     coding
-📦  projects   1 public
+📦  projects   2 public
 🔭  learning   C#, Go
 🎮  hobby      gamedev
 ```
