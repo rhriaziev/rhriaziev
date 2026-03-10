@@ -23,16 +23,18 @@
 ### `$ whoami`
 
 ```yaml
-name:      rhriaziev
+name:      Roman
+age:       18
 role:      software developer
-languages: [Python, JavaScript, C++]
+languages: [Python, JavaScript, C++, C#]
 focus:
   - telegram bots
-  - automation tools
+  - working with APIs
   - open source
-  - Websites
-  - GameDev
-currently: learning & building
+  - websites
+  - gamedev
+  - automation tools
+learning:  C#, Go
 ```
 
 </td>
@@ -46,6 +48,7 @@ currently: learning & building
 ⚡  status     coding
 📦  projects   1 public
 🔭  learning   C#, Go
+🎮  hobby      gamedev
 ```
 
 </td>
@@ -56,17 +59,27 @@ currently: learning & building
 
 ---
 
-### `$ cat stack.txt`
+### `$ cat languages.txt`
 
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,cs&theme=dark&perline=4" />
 
-<br/><br/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,vscode,github&theme=dark&perline=3" />
+<br/>
+
+---
+
+### `$ cat tools.txt`
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,react,github,linux,postman&theme=dark&perline=6" />
 
 </div>
 
@@ -87,6 +100,14 @@ currently: learning & building
 <br/>
 
 ---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/rhriaziev/rhriaziev/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
 
 <div align="center">
 
