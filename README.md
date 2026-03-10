@@ -40,10 +40,10 @@ currently: learning & building
 ### `$ uptime`
 
 ```
-🌙  timezone   UTC+5
+🌙  timezone   UTC+3
 ⚡  status     coding
 📦  projects   1 public
-🔭  learning   always
+🔭  learning   C#, Go
 ```
 
 </td>
