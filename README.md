@@ -16,34 +16,46 @@
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="20">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="55%" valign="top">
 
-**`$ whoami`**
+### `$ whoami`
 
-| | |
-|---|---|
-| name | Roman |
-| age | 18 |
-| role | software developer |
-| languages | Python · JS · C++ · C# |
-| focus | bots · APIs · web · gamedev |
-| learning | C#, Go |
+```yaml
+
+
+
+name:      Roman
+age:       18
+role:      software developer
+languages: [Python, JavaScript, C++, C#]
+focus:
+  - telegram bots
+  - working with APIs
+  - open source
+  - websites
+  - gamedev
+  - automation tools
+learning:  C#, Go
+```
 
 </td>
-<td width="10%"></td>
-<td width="35%" valign="top">
+<td width="5%"></td>
+<td width="40%" valign="top">
 
-**`$ uptime`**
+### `$ uptime`
 
-| | |
-|---|---|
-| 🌙 timezone | UTC+3 |
-| ⚡ status | coding |
-| 📦 projects | 1 public |
-| 🔭 learning | C#, Go |
-| 🎮 hobby | gamedev |
+```
+
+
+
+🌙  timezone   UTC+3
+⚡  status     coding
+📦  projects   1 public
+🔭  learning   C#, Go
+🎮  hobby      gamedev
+```
 
 </td>
 </tr>
