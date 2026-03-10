@@ -72,32 +72,6 @@ currently: learning & building
 
 ---
 
-### `$ git log --stat`
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rhriaziev&theme=dark&hide_border=true&background=0d1117&ring=4f8ef7&fire=4f8ef7&currStreakLabel=4f8ef7&sideLabels=8b949e&dates=4a5568&currStreakNum=ffffff&sideNums=ffffff" width="65%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rhriaziev&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" width="85%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhriaziev&bg_color=0d1117&color=4f8ef7&line=1a3a6a&point=4f8ef7&area=true&area_color=1a3a6a&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 ### `$ ls projects/`
 
 <br/>
