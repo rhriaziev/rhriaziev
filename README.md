@@ -30,6 +30,8 @@ focus:
   - telegram bots
   - automation tools
   - open source
+  - Websites
+  - GameDev
 currently: learning & building
 ```
 
