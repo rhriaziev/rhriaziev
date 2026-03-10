@@ -47,8 +47,7 @@ learning:  C#, Go
 ### `$ uptime`
 
 ```
-
-
+status: online ···················
 
 🌙  timezone   UTC+3
 ⚡  status     coding
