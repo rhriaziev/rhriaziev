@@ -106,11 +106,6 @@ status: online ···················
 
 ---
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/rhriaziev/rhriaziev/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 <br/>
 
