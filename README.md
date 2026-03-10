@@ -99,7 +99,7 @@ status: online ···················
 <div align="center">
 
 **[MusicSearchBot](https://github.com/rhriaziev/MusicSearchBot)** — Telegram bot for searching and downloading music via Spotify & SoundCloud · `Python`
-
+**[GetCalorieBot](https://github.com/rhriaziev/GetCalorieBot)** — Telegram bot for calorie counting · `Python`
 </div>
 
 <br/>
